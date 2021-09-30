@@ -153,5 +153,5 @@ Then we will add email by the following command.
 # For more information on Git Commands, visit :
 - [Git Cheat Sheet](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [Git Cheat Sheet Education](static/git-cheat-sheet-education.pdf)
-- [Git Kraken Git Bascis](static/git-kraken-git-bascis.pdf)
+- [Git Kraken Git Basics](static/git-kraken-git-bascis.pdf)
 
